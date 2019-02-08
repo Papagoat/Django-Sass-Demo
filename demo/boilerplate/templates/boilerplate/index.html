@@ -1,0 +1,10 @@
+{% extends 'boilerplate/base.html' %}
+
+{% block content %}
+<div>
+ {% for demo in latest_demo_list %}
+  <h1>{{ demo.demo_title }}</h1>
+  <p>{{ demo.demo_description }}</p>
+ {% endfor %}
+</div>
+{% endblock %}

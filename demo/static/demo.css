@@ -1,0 +1,10 @@
+body .container-fluid {
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  background: #cccccc; }
+  body .container-fluid p {
+    padding: 20px;
+    background: teal; }
+
+/*# sourceMappingURL=demo.css.map */
