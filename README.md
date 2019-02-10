@@ -1,5 +1,5 @@
 # Using SASS with Django
-[Follow the tutorial](http://terencelucasyap.com/using-sass-django/).
+[Exercise files for the tutorial](http://terencelucasyap.com/using-sass-django/).
 
 
 ## License
